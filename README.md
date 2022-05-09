@@ -1,4 +1,4 @@
-{% set emojis = ["📈", "🐍"] %}
-{% for emoji in emojis %}
-{{ emoji }}
-{% endfor $}
+{% set emojis = ["📈", "🐍"] %}  
+{% for emoji in emojis %}  
+{{ emoji }}  
+{% endfor $}  
